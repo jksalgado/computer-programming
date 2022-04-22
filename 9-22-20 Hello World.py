@@ -1,0 +1,7 @@
+print("Jasmin Salgado")
+print('Hello World')
+print("I'm so tired.")
+print("Hi")
+print('Good morning')
+print("Teehee")
+print("BYE")
